@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-           Regiane vai pra portugal 
+           Regiane Estevão Rosa Marcelino
           
           </p>
           <div>
